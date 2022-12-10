@@ -6,6 +6,11 @@
 - 📫 You can reach me sending me an email at: gpontesf06@gmail.com
 
 
+
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofg1pontes&theme=tokyonight)
 
 <!---
