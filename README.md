@@ -1,13 +1,18 @@
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+
 - 👋 Hi, I’m @gustavofg1pontes
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Javascript, C# and Java
-- 💞️ I’m looking to collaborate on a lot of crazy projects that would help my career 
-- 📫 You can reach me sendind me an email at: gpontesf06@gmail.com
+- 🌱 I’m currently learning Javascript and C# 
+- 🏫 I'm currently studying at IFSP - Campus Cubatão
+- 💞️ I’m looking to collaborate on a lot of projects that would help my career 
+- 📫 You can reach me sending me an email at: gpontesf06@gmail.com
 
 
 
 
-
+<i class="devicon-javascript-plain"></i>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofg1pontes&theme=tokyonight)
 
 <!---
