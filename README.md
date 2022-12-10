@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript and C# 
 - 🏫 I'm currently studying at IFSP - Campus Cubatão
 - 💞️ I’m looking to collaborate on a lot of projects that would help my career 
-- 📫 You can reach me sending me an email at: gpontesf06@gmail.com
+- 📫 You can reach me sending an email at: gpontesf06@gmail.com
 
          
           
