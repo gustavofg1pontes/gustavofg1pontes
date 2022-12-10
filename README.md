@@ -1,7 +1,3 @@
-
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-
 - 👋 Hi, I’m @gustavofg1pontes
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Javascript and C# 
@@ -10,9 +6,6 @@
 - 📫 You can reach me sending me an email at: gpontesf06@gmail.com
 
 
-
-
-<i class="devicon-javascript-plain"></i>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofg1pontes&theme=tokyonight)
 
 <!---
