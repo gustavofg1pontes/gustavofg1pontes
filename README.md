@@ -8,8 +8,8 @@
          
           
          
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofg1pontes&theme=dracula)
+![Snake animation](https://github.com/gustavofg1pontes/gustavofg1pontes/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 gustavofg1pontes/gustavofg1pontes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
