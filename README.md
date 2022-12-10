@@ -9,7 +9,7 @@
           
          
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofg1pontes&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofg1pontes&theme=dracula)
 
 <!---
 gustavofg1pontes/gustavofg1pontes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
