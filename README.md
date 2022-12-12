@@ -12,6 +12,7 @@
 
 ![Snake animation](https://github.com/gustavofg1pontes/gustavofg1pontes/blob/output/github-contribution-grid-snake.svg)
 
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=am8ot4ml26uuv2jc92f28fke7)
 <!---
 gustavofg1pontes/gustavofg1pontes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
