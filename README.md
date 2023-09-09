@@ -1,16 +1,15 @@
-### Hi there 👋
+- 👋 Hi, I’m @gustavofg1pontes
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning Javascript, C# and Java
+- 🏫 I'm currently studying at IFSP - Campus Cubatão
+- 💞️ I’m looking to collaborate on a lot of projects that would help my career 
+- 📫 You can reach me sending an email at: gpontesf06@gmail.com
 
-<!--
-**gustavofg1pontes/gustavofg1pontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+         
+          
+         
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofg1pontes&theme=dracula)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=am8ot4ml26uuv2jc92f28fke7)
+
