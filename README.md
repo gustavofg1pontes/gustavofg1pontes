@@ -1,15 +1,20 @@
-- 👋 Hi, I’m @gustavofg1pontes
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Javascript, C# and Java
-- 🏫 I'm currently studying at IFSP - Campus Cubatão
-- 💞️ I’m looking to collaborate on a lot of projects that would help my career 
-- 📫 You can reach me sending an email at: gpontesf06@gmail.com
+<div style="display: flex;">
+  <h6>Languages:</h6>
+  <img src="https://img.shields.io/badge/JAVA-%20?style=flat-square&logo=java&logoColor=white&color=3e0928" height="16" />
+  <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=700f0a" height="16" />
+  <img src="https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=4e0b1e" height="16" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=flat-square&logo=typescript&logoColor=white&color=1f053a" height="16" />
+  <img src="https://img.shields.io/badge/SQL-%20?style=flat-square&logo=mysql&logoColor=white&color=01004d" height="16"/>
 
-         
-          
-         
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofg1pontes&theme=dracula)
+  
+  <h6>Learning:</h6>
+  <img src="https://img.shields.io/badge/PYTHON-%20?style=flat-square&logo=python&logoColor=white&color=130342" height="16"/>
+  <!--<img height="16" src="https://img.shields.io/badge/ELIXIR-%20?style=flat-square&logo=elixir&logoColor=white&color=811100" />-->
+
+</div>
 
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=am8ot4ml26uuv2jc92f28fke7)
 
+<a target="_blank" href="https://www.linkedin.com/in/gustavoandrep/">
+  <img align="right" src="linkedin.svg" height="25" width="25" />
+</a>
