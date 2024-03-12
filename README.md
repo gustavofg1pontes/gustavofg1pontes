@@ -1,16 +1,12 @@
+- 👋 Hey, I’m Gustavo!
+- 📫 You can reach me by my email address gustavo.andre@aluno.ifsp.edu.br;
+
+| <a href="https://github.com/gustavofg1pontes"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavofg1pontes&theme=dracula" alt="Gustavo's github stats" /></a> | <a href="https://github.com/gustavofg1pontes"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofg1pontes&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <div style="display: flex;">
-  <h6>Languages:</h6>
-  <img src="https://img.shields.io/badge/JAVA-%20?style=flat-square&logo=java&logoColor=white&color=3e0928" height="16" />
-  <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=700f0a" height="16" />
-  <img src="https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=4e0b1e" height="16" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=flat-square&logo=typescript&logoColor=white&color=1f053a" height="16" />
-  <img src="https://img.shields.io/badge/SQL-%20?style=flat-square&logo=mysql&logoColor=white&color=01004d" height="16"/>
 
 
-  
-  <h6>Learning:</h6>
-  <img src="https://img.shields.io/badge/PYTHON-%20?style=flat-square&logo=python&logoColor=white&color=130342" height="16"/>
-  <!--<img height="16" src="https://img.shields.io/badge/ELIXIR-%20?style=flat-square&logo=elixir&logoColor=white&color=811100" />-->
 
 </div>
 
