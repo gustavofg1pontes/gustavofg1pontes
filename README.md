@@ -2,7 +2,7 @@
 - 📫 You can reach me by my email address gustavo.andre@aluno.ifsp.edu.br;
 
 | <a href="https://github.com/gustavofg1pontes"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavofg1pontes&theme=dracula" alt="Gustavo's github stats" /></a> |
-| ------------- | ------------- |
+
 
 <div style="display: flex;">
   
